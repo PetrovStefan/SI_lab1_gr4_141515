@@ -50,3 +50,17 @@ class Point {
 
 
 }
+
+class Canvas{
+
+	List<Points> koordinati = Array.asList(Point);
+
+	public void addKoordinati(double x, y){
+		this.koordinati.add(x, y)
+	}
+
+	//converting list to array
+	String[] strArray = new String[koordinati.size()];
+	strArray = koordinati.toArray(strArray);
+	System.out.println(Arrays.toString(strArray))
+}
