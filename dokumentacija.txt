@@ -1,0 +1,57 @@
+//Iskoristeni bea slednite komandi:
+
+'git clone' (za kloniranje na repoto)
+Iskoristiv 'mv' za da go preimenuvam repoto
+'git remove remote origin' (za ostranuvanje na lokal so remote)
+'git remote add' (za dodavanje na moeto remote repo)
+'touch' za kreiranje na .csv fajlot
+'nano' za editiranje na samiot fajl (podocna so VSC editirav)
+'git add .' za dodavanje na fajlovi
+git commit -m "PORAKA" za komitovi
+'git push' za turkanje na remote repoto
+'git checkout -b' za nova granka
+'git merge' za spojuvanje na grankata so master
+//link do repoto:
+https://github.com/PetrovStefan/SI_lab1_gr4_141515
+
+
+
+//GIT LOG:
+
+commit 4ff3fcab020a272eb0e37360b88f74c2bbff62ea (HEAD -> master, origin/master, origin/canvasFeature, canvasFeature)
+Author: Stefan Petrov <stefanbt8@gmail.com>
+Date:   Sun Apr 12 23:10:37 2020 +0200
+
+    added Canvas class and new coordinates
+
+commit acf21ce8c269a2bea6df9756550ee7196b081938
+Author: Stefan Petrov <stefanbt8@gmail.com>
+Date:   Sun Apr 12 22:59:35 2020 +0200
+
+    point class finished
+
+
+commit ec110a54abd6c2132539d75fe3aeeb412662dde0
+Author: Stefan Petrov <stefanbt8@gmail.com>
+Date:   Sun Apr 12 22:48:58 2020 +0200
+
+    color variable added
+
+commit 7f2da342da5bbabb8efc77e8d97cea3c4f8475e6
+Author: Stefan Petrov <stefanbt8@gmail.com>
+Date:   Sun Apr 12 22:46:59 2020 +0200
+
+    points.csv file added
+
+commit 5ca925fe4c494075a9cf410eeaebfcfd7e7e3f10
+Author: Stefan Petrov <stefanbt8@gmail.com>
+Date:   Sun Apr 12 22:41:33 2020 +0200
+
+    first commit
+
+commit 3a41513605331cf0181b65101572eb2d15218d96
+Author: Stefan Andonov <stefan5andonov@yahoo.com>
+Date:   Thu Mar 12 18:00:07 2020 +0100
+
+    initial commit
+log file: o remote)
